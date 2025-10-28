@@ -5,7 +5,7 @@ Le chiffrement RSA repose sur l’exponentiation modulaire de grands nombres. En
 Le flag est `FCSC{xxxx}` où `xxxx` est remplacé par la valeur de c en écriture décimale.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [SMIC (1)](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-smic-1/)
 
